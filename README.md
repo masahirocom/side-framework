@@ -60,18 +60,8 @@ Can be used in retrospectives, project launches, audits, coaching sessions, or l
 
 ---
 
-## 🧑‍💼 Author
-
-**Masahiro Nakatsugawa**  
-Designer of systems, AI solutions, and organizational frameworks. SIDE was developed based on recurring structural failures seen in tech-driven teams and transformation initiatives.
-
-Website: [your-link-here]  
-Twitter: [@yourhandle]
-
----
-
 ## License
 
 All materials in this repository are licensed under the  
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-Please attribute: **Masahiro Nakatsugawa** — Creator of the CORE Framework
+Please attribute: **Masahiro Nakatsugawa** 

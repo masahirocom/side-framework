@@ -58,14 +58,6 @@ When Agile becomes ritualistic, DX results in confusion, or teams are blamed wit
 
 Use SIDE in retrospectives, workshops, or leadership coaching to uncover and correct structural issues before they turn into dysfunction.
 
----
-
-## 🧑‍💼 開発者 / Author
-
-**Masahiro Nakatsugawa**  
-開発・設計・経営支援に長年携わり、複数のAI応用・DX案件の現場改善を行う。  
-Website: [your-link-here]  
-Twitter: [@yourhandle]
 
 ---
 
@@ -74,4 +66,4 @@ Twitter: [@yourhandle]
 [Creative Commons 表示 4.0 国際 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) ライセンスのもとで提供されます。
 
 クレジット：  
-**中津川 昌弘（Masahiro Nakatsugawa）** – COREフレームワーク制作者
+**中津川 昌弘（Masahiro Nakatsugawa）** 
